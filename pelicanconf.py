@@ -1,6 +1,6 @@
 AUTHOR = 'Parsons Community'
 SITENAME = 'Parsons'
-SITEURL = ""
+SITEURL = "https://move-coop.github.io/parsons-website/"
 
 PATH = "content"
 
